@@ -8,13 +8,9 @@
 
 ## 换脸效果
 
-![](.README_images/swaped.png)
 
-
-![](.README_images/20230721-182801.png)
 
 ## 使用说明
 
-![](.README_images/7c453c53.png)
 
 
